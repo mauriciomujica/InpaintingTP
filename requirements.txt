@@ -1,0 +1,10 @@
+streamlit==1.40.0
+torch
+numpy
+pillow
+requests
+lama-cleaner
+rembg[cpu]
+streamlit-drawable-canvas
+opencv-python
+google-generativeai
