@@ -5,6 +5,6 @@ pillow
 requests
 lama-cleaner
 rembg[cpu]
-git+https://github.com/mauriciomujica/streamlit-drawable-canvas.git
+streamlit-drawable-canvas @ git+https://github.com/mauriciomujica/streamlit-drawable-canvas
 opencv-python
 google-generativeai
