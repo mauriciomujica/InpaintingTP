@@ -4,7 +4,7 @@ numpy
 pillow==11.3.0
 requests
 lama-cleaner
-rembg[cpu]
+rembg[cpu]==2.0.67
 streamlit-drawable-canvas @ git+https://github.com/mauriciomujica/streamlit-drawable-canvas
 opencv-python
 google-generativeai
