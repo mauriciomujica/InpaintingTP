@@ -5,6 +5,6 @@ pillow
 requests
 lama-cleaner
 rembg[cpu]
-streamlit-drawable-canvas==0.9.2
+streamlit-drawable-canvas==0.8.0
 opencv-python
 google-generativeai
