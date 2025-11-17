@@ -6,5 +6,5 @@ requests
 lama-cleaner
 rembg[cpu]
 streamlit-drawable-canvas @ git+https://github.com/mauriciomujica/streamlit-drawable-canvas
-opencv-python-headless
+opencv-python
 google-generativeai
