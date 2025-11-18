@@ -17,9 +17,7 @@ Utiliza tecnologías de IA avanzadas: el modelo LaMa para inpainting basado en d
 
 ## Demo
 
-[Screenshot de la aplicación mostrando la interfaz principal]
-
-[Link al video demo: https://example.com/demo-video]
+[![Watch the video](https://img.youtube.com/vi/reb0jGRN2vc/default.jpg)](https://youtu.be/reb0jGRN2vc)
 
 ## Características
 
@@ -96,8 +94,6 @@ streamlit run app.py
 6. Haz click en "Inpintar Imagen" para procesar
 7. Revisa la imagen resultante y descargala si deseas
 8. Opcionalmente, habilita "Análisis con Gemini" en la barra lateral, ingresa tu API key, selecciona un modelo y haz click en "Analizar con Gemini" para obtener una evaluación
-
-[Screenshots ilustrando cada paso]
 
 ## Decisiones de Diseño
 
