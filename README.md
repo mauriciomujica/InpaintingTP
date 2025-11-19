@@ -2,6 +2,10 @@
 
 > Una aplicación web que permite eliminar objetos no deseados de imágenes utilizando técnicas de inpainting y analizar las mejoras con IA generativa.
 
+## App
+
+https://inpaintingtp.streamlit.app/
+
 ## Descripción
 
 Esta aplicación resuelve el problema de eliminar objetos distractores de imágenes de manera eficiente, algo común en diseño gráfico y edición fotográfica. Está diseñada para diseñadores gráficos freelance, quienes necesitan herramientas rápidas y precisas para editar fotos de clientes sin dedicar horas a trabajo manual tedioso.
